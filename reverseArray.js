@@ -9,6 +9,4 @@ function reverseArray(arrayInput) {
   return arrayOutput;
 }
 
-
-
 reverseArray([1, 2, 3, 4]);
